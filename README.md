@@ -1,2 +1,97 @@
 # Xkyeaz.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A simple recipe for the classic British dessert, Eton Mess, made with meringue, strawberries, and whipped cream.">
+    <title>Eton Mess Recipe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #d9534f;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        main {
+            margin: 20px;
+        }
+        h1 {
+            color: #d9534f;
+            text-align: center;
+        }
+        h2 {
+            color: #5bc0de;
+        }
+        .ingredients, .steps {
+            margin: 20px 0;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 30px;
+        }
+        .note {
+            font-style: italic;
+            color: #d9534f;
+        }
+    </style>
+</head>
+<body>
 
+<header>
+    <h1>Eton Mess Recipe</h1>
+</header>
+
+<main>
+    <section>
+        <h2>About Eton Mess</h2>
+        <p>Eton Mess is a classic British dessert traditionally made with a mixture of crushed meringue, whipped cream, and strawberries. The name "Eton Mess" originates from Eton College, where the dish has been served at the annual cricket match between Eton and Harrow since the 19th century.</p>
+    </section>
+
+    <section class="ingredients">
+        <h2>Ingredients</h2>
+        <ul>
+            <li>3 large egg whites</li>
+            <li>150g caster sugar</li>
+            <li>500ml double cream</li>
+            <li>500g fresh strawberries (hulled and chopped)</li>
+            <li>1 tbsp icing sugar (optional)</li>
+            <li>Mint leaves for garnish (optional)</li>
+        </ul>
+    </section>
+
+    <section class="steps">
+        <h2>Instructions</h2>
+        <ol>
+            <li><strong>Make the meringues:</strong> Preheat your oven to 120°C (100°C fan). Whisk the egg whites until stiff peaks form, then gradually add the caster sugar, whisking until glossy. Spoon the meringue mixture onto a baking tray lined with parchment paper and bake for 1.5 hours. Let cool.</li>
+            <li><strong>Whip the cream:</strong> Whip the double cream until soft peaks form. If you like a sweeter dessert, you can fold in the icing sugar at this stage.</li>
+            <li><strong>Prepare the strawberries:</strong> Chop the strawberries into small pieces. Reserve a few whole strawberries for garnish if desired.</li>
+            <li><strong>Assemble the Eton Mess:</strong> Crush the meringues into bite-sized pieces. In a large serving bowl, gently fold the meringues, whipped cream, and strawberries together. Be careful not to overmix, so the meringue remains crunchy.</li>
+            <li><strong>Serve:</strong> Spoon the Eton Mess into individual bowls, garnish with mint leaves and whole strawberries, and serve immediately.</li>
+        </ol>
+    </section>
+
+    <section class="note">
+        <p><strong>Note:</strong> Eton Mess should be assembled just before serving to keep the meringue crispy. You can make the meringue and whip the cream in advance and store them separately.</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Eton Mess Recipe | Created by Gabriel Bobadilla for GRA1750-2247-14789</p>
+</footer>
+
+</body>
+</html>
